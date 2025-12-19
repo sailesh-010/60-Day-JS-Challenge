@@ -38,11 +38,3 @@ Today, I focused on **Asynchronous JavaScript (Async JS)**.
   * Unhandled errors
   * Vulnerable authentication logic
 * Cleaner async code improves **security auditing** and **reliability**.
-
----
-
-If you want, I can:
-
-* shorten this for **GitHub daily logs**
-* rewrite it in **exam-ready format**
-* or add a **small code example below this note**
