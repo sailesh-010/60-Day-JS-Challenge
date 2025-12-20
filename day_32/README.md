@@ -1,6 +1,6 @@
-# 📅 Day 33: `.then()` and `.catch()` in JavaScript
+# 📅 Day 32: `.then()` and `.catch()` in JavaScript
 
-This is my **Day 33** of the **JavaScript for Cybersecurity** journey.  
+This is my **Day 32** of the **JavaScript for Cybersecurity** journey.
 Today, I learned how to handle **Promises** using `.then()` and `.catch()`.
 
 ---
