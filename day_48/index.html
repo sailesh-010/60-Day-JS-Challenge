@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Day PLACEHOLDER - JS for 60 days</title>
+</head>
+<body>
+    <h1>Express Middleware Logger</h1>
+  <p>Open the browser and check the server console.</p>
+
+  <button onclick="sendRequest()">Send Request</button>
+
+  <script>
+    function sendRequest() {
+      fetch('/')
+        .then(response => response.text())
+        .then(data => {
+          console.log('Response received:', data);
+          alert('Request sent! Check the server console.');
+        })
+        .catch(error => {
+          console.error('Error:', error);
+          alert('Error sending request');
+        });
+    }
+  </script>
+    
+</body>
+</html>
