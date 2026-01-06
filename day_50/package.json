@@ -1,0 +1,17 @@
+{
+  "name": "day_47",
+  "version": "1.0.0",
+  "description": "Today, I learned about **Express**, a web application framework for Node.js. I explored how to serve static files using Express.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {}
+}
