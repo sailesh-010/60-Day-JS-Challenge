@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "axios": "^1.13.2",
+    "cors": "^2.8.5",
+    "express": "^5.2.1"
+  },
+  "name": "day_56",
+  "version": "1.0.0",
+  "description": "Today, I shifted gears from the backend to the **Frontend**, building the user interface (UI) for the final project. This step is crucial because it provides the visual surface where users will interact with the security logic I've built.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {}
+}
